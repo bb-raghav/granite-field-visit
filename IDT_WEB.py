@@ -80,8 +80,7 @@ TEMPLATE = """
   </aside>
   <main>
     <section id=\"overview\">
-      <span class=\"pill\">Team Phantom • Field Study 2024</span>
-      <div class=\"subtitle\">IDT Field Trip</div>
+      <span class=\"pill\">Team Phantom • IDT Field Study 2025 (Sem 1)</span>
       <h1>Inside a Granite Manufacturing Shop</h1>
       <p class=\"muted\" style=\"max-width:760px\">A technical field study documenting engineering challenges and solutions in granite cutting — silica dust exposure, heavy material handling, water management, and the economics of diamond‑tipped machinery.</p>
       <div class=\"grid\">
